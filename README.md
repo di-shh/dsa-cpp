@@ -10,6 +10,6 @@ as I progress through the sheet.
 - [x] C++ basics
 - [x] Time & Space Complexity
 - [x] STL
-- [ ] Basic Maths
+- [x] Basic Maths
 - [ ] Basic Recursion
 - [ ] Basic Hashing
